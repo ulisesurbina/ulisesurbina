@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola, Soy Ulises Urbina
 
-<!--
-**ulisesurbina/ulisesurbina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Soy un desarrollador frontend con experiencia en el desarrollo de aplicaciones web modernas utilizando tecnologías como **HTML**, **CSS**, **JavaScript**, **React**, **Firebase**, **Angular**, **Git**, **Azure Devops**, **Figma**, **Bootstrap**, **Tailwind**, **Node JS**, etc. Me encanta construir interfaces limpias, accesibles y responsivas.
 
-Here are some ideas to get you started:
+### 📞 Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [ulisesurbinam@gmail.com](mailto:ulisesurbinam@gmail.com)  
+- 🌐 Web: [@ulisesurbina](https://portafolio-ulisesurbina.netlify.app/)  
+- 💼 LinkedIn: [linkedin.com/in/ulisesurbina](https://www.linkedin.com/in/ulisesurbina111/)
+
+---
+
+### 🙌 Gracias por visitar mi perfil
+
+¡No dudes en revisar mis repositorios, clonar proyectos o escribirme para colaborar!
+
+---
